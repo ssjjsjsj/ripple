@@ -51,10 +51,10 @@ function draw() {
   
         previous[mX][mY] = 50000;
         previous[mY][mX] = 50000;
-        previous[10][mY] = 50000;
-        previous[790][mY] = 50000;
-        previous[mX][10] = 50000;
-        previous[mX][790] = 50000;
+        previous[100][mY] = 50000;
+        previous[700][mY] = 50000;
+        previous[mX][100] = 50000;
+        previous[mX][700] = 50000;
    
         
       //  let damping = 0.3;
